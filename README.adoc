@@ -279,6 +279,10 @@ You can find the collection of requests for this project in `openai-api/bruno_co
 this collection into your Bruno client and start testing the OpenAI API. Also, environment variables are shared within
 the repository.
 
+You can also import the collection directly by clicking the `Fetch in Bruno` button below:
+
+[<img src="https://fetch.usebruno.com/button.svg" alt="Fetch in Bruno" style="width: 130px; height: 30px;" width="128" height="32">](https://fetch.usebruno.com?url=https%3A%2F%2Fgithub.com%2Ftelekom%2Fadvanced-coding-assistant-backend "target=_blank rel=noopener noreferrer")
+
 Open a Bruno Collection:
 
 image::readme-resources/bruno_open_collection.png[Open Bruno Collection]
